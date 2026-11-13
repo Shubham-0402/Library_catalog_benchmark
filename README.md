@@ -1,5 +1,9 @@
 # Algorithm Battle: Which Data Structure Wins?
-### SRMIST Data Structures & Algorithms (DSA) Course Project
+### SRM Institute of Science and Technology
+**Course:** Data Structures & Algorithms (DSA)  
+**Assessment:** Continuous Learning Assessment – 2 (CLA-2) • B.Tech. 2021 Regulations  
+**Student Name:** Shubham Verma  
+**Institution:** SRM Institute of Science and Technology  
 **Application Domain:** Library Book Record Search System  
 **Dataset Size:** 40 Authentic Library Book Records  
 **Language & Standard:** C++17 (Header-Based Modular Architecture)
@@ -287,3 +291,17 @@ g++ -std=c++17 main.cpp -o main.exe
 - Select `3` to display the complete 40-record catalog sorted by Book ID.
 - Select `4` to re-run the 10-query empirical benchmark table.
 - Select `5` to exit cleanly.
+
+---
+
+## Student Academic Integrity Declaration
+
+> **Declaration:**  
+> I hereby declare that this assignment titled **"Algorithm Battle: Which Data Structure Wins?"** for the Continuous Learning Assessment – 2 (CLA-2) in **Data Structures and Algorithms** represents my own original work. All data structures were implemented in C++17, compiled, and benchmarked on the 40-record library dataset. All reported metrics, tree heights, collisions, and comparison counts reflect genuine empirical data gathered from the executable.
+>
+> **Student Name:** Shubham Verma  
+> **Institution:** SRM Institute of Science and Technology  
+> **Department:** Computer Science and Engineering  
+> **Date:** November 2026  
+> **Signature:** *Shubham Verma*
+
