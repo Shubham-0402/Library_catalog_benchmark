@@ -1,0 +1,41 @@
+BookID,Title,Author,Genre
+1050,Introduction to Algorithms,Thomas H. Cormen,Computer Science
+1020,Clean Code,Robert C. Martin,Software Engineering
+1035,The Pragmatic Programmer,David Thomas,Software Engineering
+1010,Structure and Interpretation of Computer Programs,Harold Abelson,Computer Science
+1005,Design Patterns,Erich Gamma,Software Engineering
+1100,Operating System Concepts,Abraham Silberschatz,Computer Science
+1150,Computer Networks,Andrew S. Tanenbaum,Computer Science
+1250,Database System Concepts,Abraham Silberschatz,Computer Science
+1200,Artificial Intelligence: A Modern Approach,Stuart Russell,Artificial Intelligence
+1300,Compilers: Principles Techniques and Tools,Alfred V. Aho,Computer Science
+1350,Modern Operating Systems,Andrew S. Tanenbaum,Computer Science
+1400,Computer Organization and Design,David A. Patterson,Computer Engineering
+1500,Deep Learning,Ian Goodfellow,Artificial Intelligence
+1450,Reinforcement Learning: An Introduction,Richard S. Sutton,Artificial Intelligence
+1480,Pattern Recognition and Machine Learning,Christopher M. Bishop,Data Science
+1550,Speech and Language Processing,Daniel Jurafsky,Natural Language Processing
+1520,Networks Crowds and Markets,David Easley,Data Science
+1510,The Art of Computer Programming,Donald E. Knuth,Computer Science
+1600,Algorithms,Robert Sedgewick,Computer Science
+1700,Concrete Mathematics,Ronald L. Graham,Mathematics
+1650,Introduction to the Theory of Computation,Michael Sipser,Theoretical Computer Science
+1800,The Mythical Man-Month,Frederick P. Brooks Jr.,Software Engineering
+1850,Refactoring: Improving the Design of Existing Code,Martin Fowler,Software Engineering
+1900,Code Complete,Steve McConnell,Software Engineering
+2000,Godel Escher Bach: An Eternal Golden Braid,Douglas Hofstadter,Philosophy of Science
+2100,The C Programming Language,Brian W. Kernighan,Computer Science
+2300,The C++ Programming Language,Bjarne Stroustrup,Computer Science
+2250,Effective Modern C++,Scott Meyers,Computer Science
+2280,Programming Pearls,Jon Bentley,Computer Science
+2400,Head First Design Patterns,Eric Freeman,Software Engineering
+2500,Clean Architecture,Robert C. Martin,Software Engineering
+2450,You Dont Know JS,Kyle Simpson,Web Development
+2600,Designing Data-Intensive Applications,Martin Kleppmann,Distributed Systems
+2700,Site Reliability Engineering,Betsy Beyer,DevOps and Cloud
+2800,Kubernetes Up and Running,Kelsey Hightower,DevOps and Cloud
+2900,Distributed Systems,Maarten van Steen,Distributed Systems
+2850,High Performance Browser Networking,Ilya Grigorik,Computer Networks
+2820,Linux Kernel Development,Robert Love,Systems Programming
+3000,Grokking Algorithms,Aditya Bhargava,Computer Science
+3100,The Elements of Statistical Learning,Trevor Hastie,Data Science

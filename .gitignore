@@ -1,0 +1,17 @@
+# Binaries and compiled objects
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio / Editor files
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Output files
+main
+test
